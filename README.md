@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # DTB-Command-line-interface
 Dtb command line interface is a set of instructions 
 for the Dos Commands.
